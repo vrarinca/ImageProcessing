@@ -1,0 +1,81 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(423,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(423,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(433,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(434,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(435,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(440,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(441,9): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(682,35): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(683,29): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(684,29): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(776,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(795,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1254,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1359,6): warning C4101: 'histSize': unreferenced local variable
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1462,14): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1465,14): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1639,57): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1654,42): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1677,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1697,42): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1741,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1794,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1795,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1851,57): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Victor\Desktop\New folder\An3s2\IP\OpenCVApplication.cpp(1953,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  OpenCVApplication.vcxproj -> C:\Users\Victor\Desktop\New folder\An3s2\IP\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.

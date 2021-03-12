@@ -1,0 +1,8 @@
+Encountered problems:
+-had problems with SDK version of the MVS;
+-conversions from float to int/double 
+	Warning	C4244	'=': conversion from 'float' to '_Tp', possible loss of data	OpenCVApplication	c:\users\victor\desktop\new folder\ip\opencvapplication.cpp	586	
+
+-mistook functions
+-couldn't test beacause:
+	Error (active)	E1097	unknown attribute "no_init_all"	OpenCVApplication

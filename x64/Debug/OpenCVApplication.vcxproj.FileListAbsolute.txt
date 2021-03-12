@@ -1,0 +1,4 @@
+C:\Users\Victor\Desktop\New folder\IP\x64\Debug\OpenCVApplication.exe
+C:\Users\Victor\Desktop\New folder\IP\x64\Debug\OpenCVApplication.pdb
+C:\Users\Victor\Desktop\New folder\An3s2\IP\x64\Debug\OpenCVApplication.exe
+C:\Users\Victor\Desktop\New folder\An3s2\IP\x64\Debug\OpenCVApplication.pdb
